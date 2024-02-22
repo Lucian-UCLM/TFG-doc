@@ -1,3 +1,3 @@
 
-# Declaración de Autoría {.unlisted .unnumbered}
+# Statement of Authorship {.unlisted .unnumbered}
 

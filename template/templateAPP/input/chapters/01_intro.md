@@ -14,9 +14,11 @@ Durante la realización de la memoria del TFG es importante tener presente respe
 
 Para redactar un trabajo académico de modo efectivo se deben tener presentes una serie de normas que ayuden a conseguir un resultado final que sea claro y de fácil lectura.
 
-A la hora de redactar el texto se debe poner especial atención en no cometer plagio y respetar los derechos de propiedad intelectual. En particular merece gran atención la inclusión de gráficos e imágenes procedentes de Internet que no sean de elaboración propia. En este sentido se recomienda consultar el manual de la Universidad de Cantabria [^incluir_img]  en el que se explica de modo conciso cómo incluir imágenes en un trabajo académico.
+A la hora de redactar el texto se debe poner especial atención en no cometer plagio y respetar los derechos de propiedad intelectual. En particular merece gran atención la inclusión de gráficos e imágenes procedentes de Internet que no sean de elaboración propia. En este sentido se recomienda consultar el manual de la Universidad de Cantabria [^incluir_img]  en el que se explica de modo conciso cómo incluir imágenes en un trabajo académico.\ref{anexo:ejemploFiguraCodigo}
 
 [^incluir_img]: Guía de Imágenes: [https://web.unican.es/buc/Documents/Formacion/guia_imagenes.pdf](https://web.unican.es/buc/Documents/Formacion/guia_imagenes.pdf)
+
+
 
 ## Estructura del Documento
 

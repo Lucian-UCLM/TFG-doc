@@ -1,2 +1,2 @@
 
-# Acrónimos {.unlisted .unnumbered}
+# Acronyms {.unlisted .unnumbered}

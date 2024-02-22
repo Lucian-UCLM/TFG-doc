@@ -1,5 +1,5 @@
 \begin{flushright}
 \textit
-Dedicado a mi familia y a todos\\
-aquellos ...\\
+Dedicado a mis padres por ser los pilares fundamentales\\
+que me han permitido llegar hasta este momento.\\
 \end{flushright}

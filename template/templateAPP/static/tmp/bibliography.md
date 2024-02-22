@@ -1,5 +1,5 @@
 
-# Bibliografía {-}
+# Bibliography {-}
 
 <div id="refs"></div>
 
