@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="PADGM" edgedefault="undirected">
+<node id="ACCIAIUOL" />
+<node id="ALBIZZI" />
+<node id="BARBADORI" />
+<node id="BISCHERI" />
+<node id="CASTELLAN" />
+<node id="GINORI" />
+<node id="GUADAGNI" />
+<node id="LAMBERTES" />
+<node id="MEDICI" />
+<node id="PAZZI" />
+<node id="PERUZZI" />
+<node id="PUCCI" />
+<node id="RIDOLFI" />
+<node id="SALVIATI" />
+<node id="STROZZI" />
+<node id="TORNABUON" />
+<edge source="ACCIAIUOL" target="MEDICI" type="double" value="1.0000" />
+<edge source="ALBIZZI" target="GINORI" type="double" value="1.0000" />
+<edge source="ALBIZZI" target="GUADAGNI" type="double" value="1.0000" />
+<edge source="ALBIZZI" target="MEDICI" type="double" value="1.0000" />
+<edge source="BARBADORI" target="CASTELLAN" type="double" value="1.0000" />
+<edge source="BARBADORI" target="MEDICI" type="double" value="1.0000" />
+<edge source="BISCHERI" target="GUADAGNI" type="double" value="1.0000" />
+<edge source="BISCHERI" target="PERUZZI" type="double" value="1.0000" />
+<edge source="BISCHERI" target="STROZZI" type="double" value="1.0000" />
+<edge source="CASTELLAN" target="PERUZZI" type="double" value="1.0000" />
+<edge source="CASTELLAN" target="STROZZI" type="double" value="1.0000" />
+<edge source="GUADAGNI" target="LAMBERTES" type="double" value="1.0000" />
+<edge source="GUADAGNI" target="TORNABUON" type="double" value="1.0000" />
+<edge source="MEDICI" target="RIDOLFI" type="double" value="1.0000" />
+<edge source="MEDICI" target="SALVIATI" type="double" value="1.0000" />
+<edge source="MEDICI" target="TORNABUON" type="double" value="1.0000" />
+<edge source="PAZZI" target="SALVIATI" type="double" value="1.0000" />
+<edge source="PERUZZI" target="STROZZI" type="double" value="1.0000" />
+<edge source="RIDOLFI" target="STROZZI" type="double" value="1.0000" />
+<edge source="RIDOLFI" target="TORNABUON" type="double" value="1.0000" />
+</graph>
+</graphml>
